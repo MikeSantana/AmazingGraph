@@ -49,6 +49,11 @@ header #h_content ul li{
     
 }
 
+header #h_content ul li:hover{
+    opacity: 0.8;
+    
+}
+
 
 main {
     margin: 0 auto;
@@ -100,6 +105,10 @@ main #m_content  #m_content1 a {
     
 }
 
+main #m_content  #m_content1 a:hover {
+    opacity: 0.8;
+}
+
 main #m_content  img {
     width: 95%;
     height: 100%;
@@ -110,6 +119,6 @@ main #m_content  img {
 
 #imagem {
     max-width: 700px;
-    max-height: 350px;
+    max-height: 424,2px;
 }
 
